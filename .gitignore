@@ -1,0 +1,6 @@
+# Ignore .idea directory (IDE settings)
+.idea/
+
+# Ignore Python bytecode caches
+__pycache__/
+
